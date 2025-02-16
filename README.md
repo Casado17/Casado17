@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @Casado17
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Casado17/Casado17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+```mermaid
+graph TD
+    A[开始] --> B{判断}
+    B -->|是| C[步骤1]
+    B -->|否| D[步骤2]
+    C --> E[结束]
+    D --> E
